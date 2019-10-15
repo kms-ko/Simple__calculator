@@ -21,7 +21,7 @@
             android:focusableInTouchMode="true"
             android:hint="입력"
             android:maxLength="15"
-            android:textAlignment="viewEnd"
+            android:gravity="right"
             android:textSize="50dp" />
 
         <TextView
@@ -31,7 +31,7 @@
             android:ems="40"
             android:focusableInTouchMode="true"
             android:text="결과"
-            android:textAlignment="viewEnd"
+            android:gravity="right"
             android:textSize="50dp" />
 
         <TableLayout
